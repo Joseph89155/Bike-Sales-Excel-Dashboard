@@ -1,5 +1,6 @@
-🚴‍♂️ Bike Sales Data Analysis Project
-📋 Project Description
+## 🚴‍♂️ Bike Sales Data Analysis Project.
+
+## 📋 Project Description
 This project focuses on analyzing bike sales data to uncover key customer insights and sales trends. Using Microsoft Excel, I cleaned the raw data, performed analysis through pivot tables, and created an interactive dashboard.
 The goal is to provide actionable insights that can help improve marketing strategies and boost future bike sales.
 
